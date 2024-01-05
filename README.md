@@ -1,6 +1,6 @@
 # Image Dataset Curation - Art Recommendation System 
 
-Tutorial on image similarity and dataset curation from the [Google DevFest On Campus at the Technical University Berlin](https://gdsc.community.dev/events/details/developer-student-clubs-technische-universitat-berlin-presents-devfest-on-campus-at-technical-university-berlin/) (December 16th, 2023). 
+Content for workshops on image similarity and dataset curation. 
 
 In this repo we learn about:
 
@@ -14,9 +14,9 @@ In this repo we learn about:
 ![](https://github.com/andandandand/image-dataset-curation/blob/main/images/tensorboard_img.png)
 
 #### Author: Antonio Rueda-Toicen
-#### [Berlin Computer Vision Group](https://www.meetup.com/berlin-computer-vision-group/)
+#### [AI Service Center - Berlin Brandenburg](https://hpi.de/en/kisz/home.html) 
 
-**antonio.rueda.toicen 'at' gmail 'dot' com**
+**antonio.rueda.toicen 'at' hpi 'dot' de**
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
