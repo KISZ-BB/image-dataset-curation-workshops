@@ -2,6 +2,9 @@
 
 Content for workshops on image similarity and dataset curation. 
 
+
+![](https://github.com/andandandand/image-dataset-curation/blob/main/images/tensorboard_img.png)
+
 ## Workshop 1
 
 * [Intuitions about Image Embeddings and Pairwise Comparison](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part1_Pairwise_Comparison_of_Embeddings.ipynb)
@@ -14,7 +17,6 @@ Content for workshops on image similarity and dataset curation.
 * [Running Imagenet-pretrained convolutional neural networks (Resnets) for classification](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part4_Labeling_Images_with_a_Pretrained_Resnet.ipynb)
 
 
-![](https://github.com/andandandand/image-dataset-curation/blob/main/images/tensorboard_img.png)
 
 #### Author: Antonio Rueda-Toicen
 #### [AI Service Center - Berlin Brandenburg](https://hpi.de/en/kisz/home.html) 
