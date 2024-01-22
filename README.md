@@ -8,7 +8,7 @@ Content for workshops on image similarity and dataset curation.
 ## Workshop 1
 
 * [Intuitions about Image Embeddings and Pairwise Comparison](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part1_Pairwise_Comparison_of_Embeddings.ipynb)
-* [Scraping artwork from Google Images and Saving it to Google Drive](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part2_Downloading_Images_to_Google_Drive_and_Creating_Embeddings.ipynb)
+* [Scraping Public Domain Artwork from Google Images and Saving it to Google Drive](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part2_Downloading_Images_to_Google_Drive_and_Creating_Embeddings.ipynb)
 
 ## Workshop 2 
 
