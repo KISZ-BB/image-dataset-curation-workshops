@@ -2,13 +2,16 @@
 
 Content for workshops on image similarity and dataset curation. 
 
-In this repo we learn about:
+## Workshop 1
 
-* [Scraping artwork from Google Images](https://github.com/andandandand/image-dataset-curation/blob/main/notebooks/Tutorial_Part1_Downloading_Images_to_Google_Drive_and_Creating_Embeddings.ipynb)
-* [Obtaining image embeddings from a ResNet on PyTorch](https://github.com/andandandand/image-dataset-curation/blob/main/notebooks/Tutorial_Part2_Image_Similarity_of_Street_Artwork.ipynb)
-* [Using cosine similarity to compare and cluster image embeddings](https://github.com/andandandand/image-dataset-curation/blob/main/notebooks/Tutorial_Part2_Image_Similarity_of_Street_Artwork.ipynb)
-* [Visualizing image vector spaces using Tensorboard](https://github.com/andandandand/image-dataset-curation/blob/main/notebooks/Tutorial_Part3_Visualizing_Image_Embeddings_with_Tensorboard.ipynb)
-* [Running Imagenet-pretrained convolutional neural networks (Resnets) for classification](https://github.com/andandandand/image-dataset-curation/blob/main/notebooks/Tutorial_Part4_Running_a_Pretrained_Resnet.ipynb)
+* [Intuitions about Image Embeddings and Pairwise Comparison](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part1_Pairwise_Comparison_of_Embeddings.ipynb)
+* [Scraping artwork from Google Images and Saving it to Google Drive](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part2_Downloading_Images_to_Google_Drive_and_Creating_Embeddings.ipynb)
+
+## Workshop 2 
+
+* [Nearest Neighbors and Clustering of Images](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part3_Image_Neighborhoods_and_Clustering_of_Street_Artwork.ipynb)
+* [Visualizing Image Vector Spaces using Tensorboard](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part5_Visualizing_Image_Embeddings_with_Tensorboard.ipynb)
+* [Running Imagenet-pretrained convolutional neural networks (Resnets) for classification](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part4_Labeling_Images_with_a_Pretrained_Resnet.ipynb)
 
 
 ![](https://github.com/andandandand/image-dataset-curation/blob/main/images/tensorboard_img.png)
