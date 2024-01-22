@@ -19,7 +19,7 @@ Content for workshops on image similarity and dataset curation.
 
 
 #### Author: Antonio Rueda-Toicen
-#### [AI Service Center - Berlin Brandenburg](https://hpi.de/en/kisz/home.html) 
+#### [AI Service Center @ Hasso Plattner Institute](https://hpi.de/en/kisz/home.html) 
 
 **antonio.rueda.toicen 'at' hpi 'dot' de**
 
