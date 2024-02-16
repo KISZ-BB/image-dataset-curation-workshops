@@ -14,6 +14,9 @@ Content for workshops on image similarity and dataset curation.
 
 * [Nearest Neighbors and Clustering of Images](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part3_Image_Neighborhoods_and_Clustering_of_Street_Artwork.ipynb)
 * [Visualizing Image Vector Spaces using Tensorboard](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part5_Visualizing_Image_Embeddings_with_Tensorboard.ipynb)
+
+## Workshop 3
+* [Downloading Lion-related images from Bing](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/image_scraping/Download_Images_from_Bing_to_Google_Drive_Lion_Experiments.ipynb)
 * [Running Imagenet-pretrained convolutional neural networks (Resnets) for classification](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part4_Labeling_Images_with_a_Pretrained_Resnet.ipynb)
 
 
