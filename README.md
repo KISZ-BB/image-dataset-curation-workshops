@@ -18,7 +18,7 @@ Content for workshops on image similarity and dataset curation.
 ## Workshop 3
 * [Downloading Lion-related images from Bing](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/image_scraping/Download_Images_from_Bing_to_Google_Drive_Lion_Experiments.ipynb)
 * [Running Imagenet-pretrained convolutional neural networks (Resnets) for classification](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part4_Labeling_Images_with_a_Pretrained_Resnet.ipynb)
-
+* [Fine-tuning a Resnet for multilabel classification](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/notebooks/Tutorial_Part6_Finetuning_a_Resnet_for_Multilabel_Classification.ipynb)
 
 
 #### Author: Antonio Rueda-Toicen
