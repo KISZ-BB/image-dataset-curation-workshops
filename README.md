@@ -1,7 +1,4 @@
-# Image Dataset Curation - Art Recommendation System 
-
-Content for workshops on image similarity and dataset curation. 
-
+# Practical Computer Vision with PyTorch
 
 ![](https://github.com/andandandand/image-dataset-curation/blob/main/images/tensorboard_img.png)
 
