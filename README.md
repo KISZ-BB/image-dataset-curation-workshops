@@ -1,6 +1,7 @@
 # Practical Computer Vision with PyTorch
 
 ![](https://github.com/andandandand/image-dataset-curation/blob/main/images/tensorboard_img.png)
+***Visualizing image embeddings in a 3D space***
 
 ## Workshop 1
 * [Slides](https://github.com/KISZ-BB/image-dataset-curation-workshops/blob/main/slides/Image%20Dataset%20Curation%20-%20Art%20Recommendation%20-%20Workshop%201.pdf)
